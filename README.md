@@ -13,5 +13,5 @@
 ![icons8-react-100](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/1604eb83-8c20-4a4b-b083-784909c89c33)
 ![icons8-redux-96](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/be13eb91-6c0d-4419-94a2-4b3c4cfea969)
 ![icons8-git-96](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/d547d8bf-5c49-45f7-90c1-36776efcefc1)
-![icons8-tailwind-css-48](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/ac580157-4934-4bab-a785-d61f759abb90)
-
+![icons8-nodejs-96](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/425b866e-5ccd-4104-bdeb-62d9cdda6bfe)
+![icons8-mongodb-96](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/b26d2677-a146-42ce-be7c-4c54a81b602a)
