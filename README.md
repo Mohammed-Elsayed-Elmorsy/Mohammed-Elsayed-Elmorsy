@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h1>Hi, I’m Mohammed Elmorsy</h1>
-- 🔭 <h3>FullStack web Developer</h3>
+ <h3>FullStack web Developer</h3>
 - 🌱 I’m currently learning React and node <br/>
 - 🤔 I’m looking for Build Full stack apps 
-- 💬 Ask me about React <br></br>
+- 💬 Ask me about React 
 
 ![icons8-html5-48](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/4e475bf9-1c28-4509-a253-413089ea864f)
 ![icons8-css-48](https://github.com/Mohammed-Elsayed-Elmorsy/Mohammed-Elsayed-Elmorsy/assets/124476206/e0f52339-0154-468b-bdb9-980d96bd41a2)
