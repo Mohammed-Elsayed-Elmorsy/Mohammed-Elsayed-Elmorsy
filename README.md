@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1>Hi, I’m Mohammed Elmorsy</h1>
-- 🔭 Hi, I’m Mohammed Elmorsy
-- 🌱 I’m currently learning React and node
+- 🔭 <h3>FullStack web Developer</h3>
+- 🌱 I’m currently learning React and node <br/>
 - 🤔 I’m looking for Build Full stack apps 
 - 💬 Ask me about React <br></br>
 
